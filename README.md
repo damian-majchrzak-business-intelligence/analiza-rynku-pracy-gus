@@ -294,7 +294,8 @@ Sprawdzono działanie wszystkich dostępnych wariantów:
 - 2023,
 - 2024,
 - 2025,
-- 2026.
+- 2026\.
+
 
 
 ### 2. Średnia z 6 lat
