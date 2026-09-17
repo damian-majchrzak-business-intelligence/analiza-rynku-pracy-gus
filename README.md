@@ -451,7 +451,7 @@ Przykładowa struktura projektu:
 📦 Analiza-Polskiego-Rynku-Pracy-GUS
 │
 ├── 📊 Power BI
-│   └── Analiza_Rynku_Pracy_GUS.pbix
+│   └── Analiza_Polskiego_Rynku_Pracy_by_DamianMajchrzak.pbix
 │
 ├── 📸 screenshots
 │   ├── dashboard_landing.png
