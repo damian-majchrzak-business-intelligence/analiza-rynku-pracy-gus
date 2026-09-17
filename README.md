@@ -296,6 +296,7 @@ Sprawdzono działanie wszystkich dostępnych wariantów:
 - 2025,
 - 2026.
 
+
 ### 2. Średnia z 6 lat
 
 Zweryfikowano, czy wartość:
